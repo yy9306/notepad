@@ -2,7 +2,10 @@
 
 > a note
 
-## Build Setup
+## Demo（案例预览）
+[Demo](https://yy9306.github.io/notepad-dist/#/)
+
+### Build Setup
 
 ``` bash
 # install dependencies
